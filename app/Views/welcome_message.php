@@ -235,7 +235,7 @@
 
     <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
-    <p>If you would like to edit this page you will find it located at:</p>
+    <p>If you would like to edit this page it should be located at:</p>
 
     <pre><code>app/Views/welcome_message.php</code></pre>
 
